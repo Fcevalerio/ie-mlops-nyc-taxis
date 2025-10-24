@@ -1,0 +1,9 @@
+- Make sure to have installed "Visual Studio Build Tools for C++" https://visualstudio.microsoft.com/visual-cpp-build-tools/
+- Create folder and use "py -3 -m venv .venv" to create a new virtual environment. #It may not work with python 3.13
+- Run "Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process" and ".\.venv\Scripts\Activate.ps1"
+- If there is a previous requirements.txt file, we can install all the required libraries using "pip install -r requirements.txt".
+- Initialize repo using "git init". 
+- Optional: Create a .gitignore file " echo ".venv/" >> .gitignore "
+-
+- Then run "git add" and " git commit -m "Initial Commit" "
+
