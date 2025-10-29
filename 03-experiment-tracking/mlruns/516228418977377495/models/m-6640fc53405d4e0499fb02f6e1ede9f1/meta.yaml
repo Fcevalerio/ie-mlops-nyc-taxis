@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/fceva/OneDrive/Documentos/MBDS/Term%202/MLOPS%20Machine%20Learning%20Operations/ie-mlops-nyc-taxis/03-experiment-tracking/mlruns/516228418977377495/models/m-6640fc53405d4e0499fb02f6e1ede9f1/artifacts
+creation_timestamp: 1761734738028
+experiment_id: '516228418977377495'
+last_updated_timestamp: 1761734742953
+model_id: m-6640fc53405d4e0499fb02f6e1ede9f1
+model_type: ''
+name: models
+source_run_id: 3833bf4dbeea436ea4aa654848513723
+status: 2
+status_message: null

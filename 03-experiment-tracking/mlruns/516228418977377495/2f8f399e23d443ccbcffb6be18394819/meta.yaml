@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/fceva/OneDrive/Documentos/MBDS/Term%202/MLOPS%20Machine%20Learning%20Operations/ie-mlops-nyc-taxis/03-experiment-tracking/mlruns/516228418977377495/2f8f399e23d443ccbcffb6be18394819/artifacts
+end_time: 1761734749656
+entry_point_name: ''
+experiment_id: '516228418977377495'
+lifecycle_stage: active
+run_id: 2f8f399e23d443ccbcffb6be18394819
+run_name: silent-grouse-937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761734746448
+status: 3
+tags: []
+user_id: fceva

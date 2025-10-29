@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/fceva/OneDrive/Documentos/MBDS/Term%202/MLOPS%20Machine%20Learning%20Operations/ie-mlops-nyc-taxis/03-experiment-tracking/mlruns/516228418977377495/8806492481434f648029a1cb6010b5a9/artifacts
+end_time: 1761734655400
+entry_point_name: ''
+experiment_id: '516228418977377495'
+lifecycle_stage: active
+run_id: 8806492481434f648029a1cb6010b5a9
+run_name: mysterious-finch-296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761734647035
+status: 3
+tags: []
+user_id: fceva

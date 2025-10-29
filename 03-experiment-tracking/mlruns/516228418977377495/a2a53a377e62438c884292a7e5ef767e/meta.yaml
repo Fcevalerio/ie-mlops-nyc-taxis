@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/fceva/OneDrive/Documentos/MBDS/Term%202/MLOPS%20Machine%20Learning%20Operations/ie-mlops-nyc-taxis/03-experiment-tracking/mlruns/516228418977377495/a2a53a377e62438c884292a7e5ef767e/artifacts
+end_time: 1761734746404
+entry_point_name: ''
+experiment_id: '516228418977377495'
+lifecycle_stage: active
+run_id: a2a53a377e62438c884292a7e5ef767e
+run_name: funny-loon-405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761734743061
+status: 3
+tags: []
+user_id: fceva
