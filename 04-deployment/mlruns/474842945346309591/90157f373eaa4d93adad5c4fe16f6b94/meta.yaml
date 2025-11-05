@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/474842945346309591/90157f373eaa4d93adad5c4fe16f6b94/artifacts
+end_time: 1762333963537
+entry_point_name: ''
+experiment_id: '474842945346309591'
+lifecycle_stage: active
+run_id: 90157f373eaa4d93adad5c4fe16f6b94
+run_name: dashing-bug-402
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762333951123
+status: 3
+tags: []
+user_id: fceva
