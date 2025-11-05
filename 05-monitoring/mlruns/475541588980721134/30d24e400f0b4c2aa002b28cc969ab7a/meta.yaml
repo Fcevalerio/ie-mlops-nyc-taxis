@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/475541588980721134/30d24e400f0b4c2aa002b28cc969ab7a/artifacts
+end_time: 1762338305810
+entry_point_name: ''
+experiment_id: '475541588980721134'
+lifecycle_stage: active
+run_id: 30d24e400f0b4c2aa002b28cc969ab7a
+run_name: gifted-jay-112
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762338293186
+status: 3
+tags: []
+user_id: fceva
